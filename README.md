@@ -1,1 +1,1 @@
-game prototype
+game POC
